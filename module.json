@@ -1,0 +1,8 @@
+{
+    "name": "Monobank",
+    "version": "1.0.0",
+    "description": "Monobank integration in Flute",
+    "authors": ["Flames", "stwx"],
+    "providers": ["Flute\\Modules\\Monobank\\ServiceProviders\\MonobankServiceProvider"],
+    "dependencies": {}
+}
